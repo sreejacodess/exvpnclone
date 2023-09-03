@@ -1,0 +1,10 @@
+<script>
+a=40
+b=25
+c=a-b
+console.log(c)
+x=40
+y=60
+z=x*y
+console.log(z)
+</script>
